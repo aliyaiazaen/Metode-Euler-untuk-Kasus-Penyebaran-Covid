@@ -1,1 +1,2 @@
 # Metode-Euler-untuk-Kasus-Penyebaran-Covid
+Untuk melihat penyebaran kasus covid-19 dapat menggunakan solusi numerik menggunakan Metode Euler PDB Orde 1. Dengan menggunakan Metode Euler, kasus dapat dimodelkan dengan SIR. Dengan S adalah susceptible atau orang rentan tetapi belum tertular, I adalah infectious atau orang yang terinfeksi, dan R adalah recovered atau orang yang sudah sembuh lalu kebal.
